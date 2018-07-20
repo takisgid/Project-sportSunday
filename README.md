@@ -2,7 +2,7 @@ Project: sportSunday (version 1)
 
 Hello, hello!
 i am just a little (obviously not commercial) java program, trying to impress you! My design is based on
-model-view-controller pattern and my GUI was made by swing API.
+model-view-controller pattern and my GUI was made with swing API.
 
 My job is to manage sports tournaments. I am programmed to consider that modesty isn't just for average ones but a
 significant virtue. Therefore, i 'll be laconic on describing my duties and skills.    
